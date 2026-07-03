@@ -6,7 +6,7 @@ platforms = ["osx-arm64", "linux-64"]
 version = "0.1.0"
 
 [tasks]
-segments = { description = "Download segments from the cluster", cmd = "scp login.genome.au.dk:~/GenerationInterval/people/kmt/segments.parquet ." }
+download = { description = "Download segments from the cluster", cmd = "scp login.genome.au.dk:~/GenerationInterval/people/kmt/segments.parquet ." }
 
 [dependencies]
 pandas = ">=3.0.3,<4"
