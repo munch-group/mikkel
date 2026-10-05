@@ -25,6 +25,6 @@ scp mheide@login.genome.au.dk:/faststorage/project/GenerationInterval/people/kmt
 
 **6.** Open the `mikkel.ipynb` notebook.
 
-**8.** Click "Select kernel" at the top right and Choose this kernel `./pixi/envs/default/bin/python `.
+**8.** Click "Select kernel" at the top right and Choose this kerne: `./pixi/envs/default/bin/python`.
 
 **9.** Run the notebook cell by cell.
